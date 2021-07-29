@@ -1,0 +1,11 @@
+server:
+  port: 8000
+datasource:
+  driverName: mysql
+  host: cdb-027nnpt2.cd.tencentcdb.com
+  port: 10106
+  database: Trade
+  username: root
+  password: Xtm_0124
+  charset: utf8
+  loc: Asia/Shanghai
